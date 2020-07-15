@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>www.rathodharan.com</title>
+    <link href="https://rathodharan.github.io/web/feed.xml" rel="self" />
+    <link href="https://rathodharan.github.io/web" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>Rathod &amp; Haran</name>
+    </author>
+    <id>https://rathodharan.github.io/web</id>
+
+</feed>
