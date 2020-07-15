@@ -5,6 +5,7 @@
     "home_page_url": "https://www.rathodharan.com",
     "feed_url": "https://www.rathodharan.com/feed.json",
     "user_comment": "",
+    "icon": "https://www.rathodharan.com/media/website/3.png",
     "author": {
         "name": "Rathod &amp; Haran"
     },
@@ -21,8 +22,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-15T22:56:40+05:30",
-            "date_modified": "2020-07-15T22:56:40+05:30"
+            "date_published": "2020-07-15T23:35:16+05:30",
+            "date_modified": "2020-07-15T23:35:16+05:30"
         }
     ]
 }
