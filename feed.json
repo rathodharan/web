@@ -9,5 +9,20 @@
         "name": "Rathod &amp; Haran"
     },
     "items": [
+        {
+            "id": "https://www.rathodharan.com/welcome.html",
+            "url": "https://www.rathodharan.com/welcome.html",
+            "title": "Welcome",
+            "summary": " This is a test post ",
+            "content_html": "\n  <p>\n    This is a test post\n  </p>",
+            "image": "https://www.rathodharan.com/media/posts/1/1.jpg",
+            "author": {
+                "name": "Rathod &amp; Haran"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-15T22:56:40+05:30",
+            "date_modified": "2020-07-15T22:56:40+05:30"
+        }
     ]
 }

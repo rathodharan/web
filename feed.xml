@@ -9,4 +9,29 @@
     </author>
     <id>https://www.rathodharan.com</id>
 
+    <entry>
+        <title>Welcome</title>
+        <author>
+            <name>Rathod &amp; Haran</name>
+        </author>
+        <link href="https://www.rathodharan.com/welcome.html"/>
+        <id>https://www.rathodharan.com/welcome.html</id>
+
+        <updated>2020-07-15T22:56:40+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.rathodharan.com/media/posts/1/1.jpg" alt="" />
+                     This is a test post 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.rathodharan.com/media/posts/1/1.jpg" alt="" />
+                
+  <p>
+    This is a test post
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
