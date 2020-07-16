@@ -5,25 +5,24 @@
     "home_page_url": "https://www.rathodharan.com",
     "feed_url": "https://www.rathodharan.com/feed.json",
     "user_comment": "",
-    "icon": "https://www.rathodharan.com/media/website/3.png",
+    "icon": "https://www.rathodharan.com/media/website/2.jpg",
     "author": {
         "name": "Rathod &amp; Haran"
     },
     "items": [
         {
-            "id": "https://www.rathodharan.com/welcome.html",
-            "url": "https://www.rathodharan.com/welcome.html",
-            "title": "Welcome",
-            "summary": " This is a test post ",
-            "content_html": "\n  <p>\n    This is a test post\n  </p>",
-            "image": "https://www.rathodharan.com/media/posts/1/1.jpg",
+            "id": "https://www.rathodharan.com/services.html",
+            "url": "https://www.rathodharan.com/services.html",
+            "title": "Services",
+            "summary": "Audit Litigation Filing",
+            "content_html": "<p>Audit</p>\n<p>Litigation</p>\n<p>Filing</p>",
             "author": {
                 "name": "Rathod &amp; Haran"
             },
             "tags": [
             ],
-            "date_published": "2020-07-15T23:55:13+05:30",
-            "date_modified": "2020-07-15T23:55:13+05:30"
+            "date_published": "2020-07-16T15:59:14+05:30",
+            "date_modified": "2020-07-16T15:59:14+05:30"
         }
     ]
 }
